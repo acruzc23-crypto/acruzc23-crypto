@@ -12,7 +12,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=acruzc23-crypto&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=acruzc23-crypto.acruzc23-crypto&left_text=VISITAS&left_color=555555&right_color=0e75b6" />
   <img src="https://img.shields.io/github/followers/acruzc23-crypto?label=Seguidores&style=for-the-badge&color=36BCF7" />
   <img src="https://img.shields.io/badge/Estado-Open%20to%20Work-brightgreen?style=for-the-badge" />
 </p>
@@ -101,10 +101,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=acruzc23-crypto&theme=tokyonight&hide_border=true&locale=es" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acruzc23-crypto&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
