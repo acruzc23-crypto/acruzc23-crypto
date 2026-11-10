@@ -96,6 +96,21 @@ class AlfredoCruz:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
+<!-- ===================== LIVE DEMOS ===================== -->
+## 🕹️ Pruébalos en el navegador
+
+Proyectos interactivos basados en lo que estudio en la UNEMI. Se abren sin instalar nada.
+
+| Proyecto | Qué hace | Demo |
+| --- | --- | --- |
+| [**Explorador Regtest**](https://github.com/acruzc23-crypto/explorador-bitcoin) | Cadena tipo Bitcoin: minado con SHA-256, UTXO, mempool, árbol de Merkle y conexión a un nodo regtest real | [Abrir](https://acruzc23-crypto.github.io/explorador-bitcoin/) |
+| [**Taller de Estructuras**](https://github.com/acruzc23-crypto/visualizador-estructuras) | Pila, cola, lista enlazada y árbol binario animados paso a paso con su pseudocódigo | [Abrir](https://acruzc23-crypto.github.io/visualizador-estructuras/) |
+| [**Pizarra de Matrices**](https://github.com/acruzc23-crypto/calculadora-matrices) | Determinante, inversa y sistemas por Gauss-Jordan con fracciones exactas y cada paso explicado | [Abrir](https://acruzc23-crypto.github.io/calculadora-matrices/) |
+| [**Laboratorio de Física**](https://github.com/acruzc23-crypto/simulador-fisica) | Plano inclinado con rozamiento y tiro parabólico con fuerzas y gráficas en vivo | [Abrir](https://acruzc23-crypto.github.io/simulador-fisica/) |
+| [**Agenda de Estudio**](https://github.com/acruzc23-crypto/agenda-estudio) | API en Node.js y web hechas por dos agentes de IA coordinados con Concord MCP | [Código](https://github.com/acruzc23-crypto/agenda-estudio) |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Proyectos destacados
 
